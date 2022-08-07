@@ -1,0 +1,2 @@
+# Chess
+Educational project
