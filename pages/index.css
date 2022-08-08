@@ -2,3 +2,9 @@
 @import url('../vendor/fonts.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/content/content.css');
+@import url('../blocks/header/headers.css');
+@import url('../blocks/logo/logo.css');
+@import url('../blocks/header/__buttons/header__buttons.css');
+@import url('../blocks/button/button.css');
+@import url('../blocks/button-join/button-join.css');
+@import url('../blocks/button-registration/button-registration.css');
